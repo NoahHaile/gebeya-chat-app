@@ -1,3 +1,10 @@
+/**
+* SystemExceptionHandler handles an exception of all exceptions
+* and write the message of the error to a file SYSTEM_LOG_FILE.
+*
+* @author  Kidus Berhanu
+*/
+
 package ChatExceptions;
 
 import java.io.FileWriter;
